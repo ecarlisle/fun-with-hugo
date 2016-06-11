@@ -1,0 +1,57 @@
+{{ $stars := .Params.stars }}
+
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body id="movie">
+    <div class="container-fluid">
+      {{ partial "header" . }}
+      <main role="main" class="row">
+        {{ partial "nav" . }}
+        <article class="col-sm-6">
+          <h1>{{ replace .Title "-" " " | title }}</h1>
+
+          {{ if .Params.stars }}
+          {{ range (seq $stars) }}
+            <i class="fa fa-star rating-star" aria-hidden="true"></i>
+          {{ end }}
+          {{ end }}
+
+          {{ if .Params.cast }}
+          <p>
+            <strong>Starring: </strong>
+            {{ delimit .Params.cast ", " }}
+          </p>
+          {{ end }}
+
+          {{ if .Params.rating }}
+          <p>
+            <strong>Rating: </strong>
+            {{ upper .Params.rating }}
+          </p>
+          {{ end }}
+
+          {{ if .Params.year }}
+          <p>
+            <strong>Year: </strong>
+            {{ upper .Params.year }}
+          </p>
+          {{ end }}
+
+          {{ .Content }}
+
+        </article>
+        <figure class="col-sm-4 poster">
+
+          <!-- Gets movie poster from page params -->
+          {{ if .Params.poster_img }}
+          <img src="{{ .Params.poster_img }}" alt="{{ title .Title }}" title="{{ title .Title }}" class="img-responsive" />
+          {{ end }}
+
+        </figure>
+        </main>
+      </div>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flexible, Powerful Static Website Creation With Hugo</title>
+    <link>http://www.ericcarlisle.com/</link>
+    <description>Recent content on Flexible, Powerful Static Website Creation With Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2016 11:14:40 -0500</lastBuildDate>
+    <atom:link href="http://www.ericcarlisle.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>no country for old men</title>
+      <link>http://www.ericcarlisle.com/movie/no-country-for-old-men/</link>
+      <pubDate>Wed, 15 Jun 2016 11:14:40 -0500</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/no-country-for-old-men/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brazil</title>
+      <link>http://www.ericcarlisle.com/movie/brazil/</link>
+      <pubDate>Wed, 15 Jun 2016 03:24:38 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/brazil/</guid>
+      <description>
+
+&lt;h2 id=&#34;plot&#34;&gt;Plot&lt;/h2&gt;
+
+&lt;p&gt;Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.&lt;/p&gt;
+
+&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Brazil&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1985&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;18 Dec 1985&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;132 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Drama, Sci-Fi&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Terry Gilliam&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Terry Gilliam (screenplay), Tom Stoppard (screenplay), Charles McKeown (screenplay)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;UK&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Nominated for 2 Oscars. Another 8 wins &amp;amp; 3 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTIwMDQ1NzQyOF5BMl5BanBnXkFtZTcwMTE4MDQzMQ@@._V1._CR3,43,349,456_SY132_CR6,0,89,132_AL_.jpg_V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTIwMDQ1NzQyOF5BMl5BanBnXkFtZTcwMTE4MDQzMQ@@._V1._CR3,43,349,456_SY132_CR6,0,89,132_AL_.jpg_V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;88&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;8.0&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;150,303&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0088846&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;98&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;8.7&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;46&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;45&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;1&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Brazil, Terry Gilliam&amp;rsquo;s visionary Orwellian fantasy, is an audacious dark comedy, filled with strange, imaginative visuals.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;90&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;4.1&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;101762&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/1003033-brazil/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/1003033-brazil/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;31 Mar 1998&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Universal Pictures&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>run lola run</title>
+      <link>http://www.ericcarlisle.com/movie/run-lola-run/</link>
+      <pubDate>Wed, 15 Jun 2016 03:18:50 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/run-lola-run/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Run Lola Run&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1998&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;18 Jun 1999&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;80 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Crime, Drama&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Tom Tykwer&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Tom Tykwer (screenplay)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Franka Potente, Moritz Bleibtreu, Herbert Knaup, Nina Petri&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. Lola has 20 min to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola&amp;rsquo;s run.&amp;rdquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;German, English, Japanese&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;Germany&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Nominated for 1 BAFTA Film Award. Another 28 wins &amp;amp; 19 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMjA5MDg3MjYyOF5BMl5BanBnXkFtZTgwODk3NjkzMTE@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMjA5MDg3MjYyOF5BMl5BanBnXkFtZTgwODk3NjkzMTE@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;77&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.8&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;160,248&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0130827&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;93&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.7&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;80&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;74&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;6&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;More fun than a barrel of Jean-Paul Sartre, pic&amp;rsquo;s energy riffs on an engaging love story and really human performances while offering a series of what-ifs and a blood-stirring soundtrack.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;90&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.8&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;143504&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/run_lola_run/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/run_lola_run/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;21 Dec 1999&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Sony Pictures Classics&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hi, I&#39;m Eric!</title>
+      <link>http://www.ericcarlisle.com/eric/</link>
+      <pubDate>Wed, 15 Jun 2016 00:09:30 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/eric/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://www.ericcarlisle.com/assets/img/eric-carlisle.png&#34; align=&#34;right&#34; class=&#34;mar-left-2&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;eric-carlisle&#34;&gt;Eric Carlisle&lt;/h1&gt;
+
+&lt;p&gt;&lt;span class=&#34;big&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Profession:&lt;/strong&gt; Hired Geek&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-desktop fg-blue mar-right-2&#34;&gt;&lt;/i&gt;&lt;a href=&#34;http://www.ericcarlisle.com&#34;&gt;ericcarlisle.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-envelope fg-blue mar-right-2&#34;&gt;&lt;/i&gt;&lt;a href=&#34;mailto:eric@ericcarlisle.com&#34;&gt;eric@ericcarlisle.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-twitter fg-blue mar-right-2&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://twitter.com/eric_carlisle&#34;&gt;@eric_carlisle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-github fg-blue mar-right-2&#34;&gt;&lt;/i&gt;&lt;a href=&#34;https://github.com/ecarlisle&#34;&gt;github.com/ecarlisle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-slideshare fg-blue mar-right-2&#34;&gt;&lt;/i&gt;&lt;a href=&#34;http://www.slideshare.net/ericcarlisle&#34;&gt;slideshare.net/eric_carlisle&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;big mar-top-3&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/garden-state/</link>
+      <pubDate>Mon, 13 Jun 2016 22:01:11 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/garden-state/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Garden State&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;2004&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;20 Aug 2004&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;102 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Comedy, Drama, Romance&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Zach Braff&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Zach Braff&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Zach Braff, Kenneth Graymez, George C. Wolfe, Austin Lysy&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A quietly troubled young man returns home for his mother&amp;rsquo;s funeral after being estranged from his family for a decade.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Klingon&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;13 wins &amp;amp; 37 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMjc5MDE0NjkxOF5BMl5BanBnXkFtZTcwNzA0NTkyMw@@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMjc5MDE0NjkxOF5BMl5BanBnXkFtZTcwNzA0NTkyMw@@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;67&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.6&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;185,905&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0333766&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;86&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.4&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;187&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;161&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;26&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Delivering a quirky spin on familiar twentysomething tropes &amp;ndash; with a cannily-placed soundtrack &amp;ndash; Garden State has enough charm to mark a winning debut for first-time director Zach Braff.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;88&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.8&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;329408&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/garden_state/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/garden_state/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;28 Dec 2004&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;$26.7M&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Fox Searchlight&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www2.foxsearchlight.com/gardenstate/&amp;quot;&#34;&gt;http://www2.foxsearchlight.com/gardenstate/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/moon/</link>
+      <pubDate>Mon, 13 Jun 2016 22:00:50 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/moon/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Moon&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;2009&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;10 Jul 2009&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;97 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Drama, Mystery, Sci-Fi&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Duncan Jones&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Duncan Jones (story), Nathan Parker&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Sam Bell has a three year contract to work for Lunar Industries. For the contract&amp;rsquo;s entire duration, he is the sole employee based at their lunar station. His primary job responsibility is to harvest and periodically rocket back to Earth supplies of helium-3, the current clean and abundant fuel used on Earth. There is no direct communication link available between the lunar station and Earth, so his only direct real-time interaction is with GERTY, the intelligent computer whose function is to attend to his day to day needs. With such little human contact and all of it indirect, he feels that three years is far too long to be so isolated; he knows he is beginning to hallucinate as the end of his three years approaches. All he wants is to return to Earth to be with his wife Tess and their infant daughter Eve, who was born just prior to his leaving for this job. With two weeks to go, he gets into an accident at one of the mechanical harvesters and is rendered unconscious. Injured, he awakens back at the station in the infirmary, he assumes assisted by GERTY. GERTY tells him that a rescue team named Eliza will come to the station to clean up the aftermath of the accident. After his recuperation, he takes an unauthorized trip back to the broken harvester, where he makes an unexpected discovery. Because of his find, he begins to doubt his sanity, then his true identity, then the company and GERTY&amp;rsquo;s willingness to do what is best for him. Because of his resulting beliefs, his sole mission becomes how to get back to Earth on his own.&amp;rdquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet&amp;rsquo;s power problems.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Spanish&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;UK&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Won 1 BAFTA Film Award. Another 24 wins &amp;amp; 31 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;67&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.9&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;256,710&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt1182345&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;89&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.5&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;187&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;167&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;20&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Boosted by Sam Rockwell&amp;rsquo;s intense performance, Moon is a compelling work of science-fiction, and a promising debut from director Duncan Jones.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;89&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;4.0&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;98271&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/10009075-moon/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/10009075-moon/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;12 Jan 2010&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;$4.8M&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Sony Pictures Classics&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.moon-movie.com&amp;quot;&#34;&gt;http://www.moon-movie.com&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/gattaca/</link>
+      <pubDate>Mon, 13 Jun 2016 22:00:34 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/gattaca/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Gattaca&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1997&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;PG-13&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;24 Oct 1997&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;106 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Drama, Sci-Fi, Thriller&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Andrew Niccol&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Andrew Niccol&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Ethan Hawke, Uma Thurman, Gore Vidal, Xander Berkeley&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.&amp;rdquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;In the not-too-distant future, a less-than-perfect man wants to travel to the stars. Society has categorized Vincent Freeman as less than suitable given his genetic make-up and he has become one of the underclass of humans that are only useful for menial jobs. To move ahead, he assumes the identity of Jerome Morrow, a perfect genetic specimen who is a paraplegic as a result of a car accident. With professional advice, Vincent learns to deceive DNA and urine sample testing. Just when he is finally scheduled for a space mission, his program director is killed and the police begin an investigation, jeopardizing his secret.&amp;rdquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.&amp;rdquo;,&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Esperanto&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Esperanto&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Nominated for 1 Oscar. Another 6 wins &amp;amp; 14 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BNzQxMzU3OTQwNF5BMl5BanBnXkFtZTYwNDUyNTE5._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BNzQxMzU3OTQwNF5BMl5BanBnXkFtZTYwNDUyNTE5._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;64&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.8&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;216,590&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0119177&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;82&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.1&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;55&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;45&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;10&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Intelligent and scientifically provocative, Gattaca is an absorbing sci fi drama that poses important interesting ethical questions about the nature of science.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;87&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.5&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;207239&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/gattaca/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/gattaca/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;05 May 1998&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Columbia Pictures&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/contact/</link>
+      <pubDate>Mon, 13 Jun 2016 21:59:31 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/contact/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Contact&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1997&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;PG&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;11 Jul 1997&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;150 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Drama, Mystery, Sci-Fi&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Robert Zemeckis&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;James V. Hart (screenplay), Michael Goldenberg (screenplay), Carl Sagan (based on the novel by), Carl Sagan (based on the story by), Ann Druyan (based on the story by)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Jena Malone, David Morse, Jodie Foster, Geoffrey Blake&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Astronomer Dr. Ellie Arroway has long been interested in contact to faraway lands, a love fostered in her childhood by her father, Ted Arroway, who passed away when she was nine years old leaving her then orphaned. Her current work in monitoring for extraterrestrial life is based on that love and is in part an homage to her father. Ever since funding from the National Science Foundation (NSF) was pulled on her work, which is referred to some, including her NSF superior David Drumlin, as more science fiction than science, Ellie, with a few of her rogue scientist colleagues, have looked for funding from where ever they could get it to continue their work. When Ellie and her colleagues hear chatter originating from the vicinity of the star Vega, Ellie feels vindicated. But that vindication is short lived when others, including politicians, the military, religious leaders and other scientists such as Drumlin, try to take over her work. When the messages received from space are decoded, the project takes on a whole new dimension, which strengthens for Ellie the quest for the truth. Thrown into the mix are the unknown person who has up until now funded most of Ellie&amp;rsquo;s work and what his motivations are, and Palmer Joss, a renowned author and theologian, who despite their fundamental differences in outlook, is mutually attracted to Ellie, that attraction based in part on intellect and their common goal of wanting to know the truth.&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of intelligent aliens, who send plans for a mysterious machine.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, German, Russian, Spanish&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Nominated for 1 Oscar. Another 15 wins &amp;amp; 26 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMjEyMDQxMTMxMF5BMl5BanBnXkFtZTcwNTU0ODcyMg@@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMjEyMDQxMTMxMF5BMl5BanBnXkFtZTcwNTU0ODcyMg@@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;62&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.4&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;197,613&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0118884&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;62&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;fresh&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;6.8&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;63&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;39&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;24&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;78&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.2&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;202704&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/1078021-contact/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/1078021-contact/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;16 Dec 1997&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Warner Home Video&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/lost-in-translation/</link>
+      <pubDate>Mon, 13 Jun 2016 21:58:44 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/lost-in-translation/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Lost in Translation&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;2003&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;03 Oct 2003&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;101 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Drama, Romance&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Sofia Coppola&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Sofia Coppola&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Middle-aged American movie star Bob Harris is in Tokyo to film a personal endorsement Suntory whiskey ad solely for the Japanese market. He is past his movie star prime, but his name and image still have enough cachet for him to have gotten this lucrative $2 million job. He has an unsatisfying home life where his wife Lydia follows him wherever he goes - in the form of messages and faxes - for him to deal with the minutiae of their everyday lives, while she stays at home to look after their kids. Staying at the same upscale hotel is fellow American, twenty-something recent Yale Philosophy graduate Charlotte, her husband John, an entertainment still photographer, who is on assignment in Japan. As such, she is largely left to her own devices in the city, especially when his job takes him out of Tokyo. Both Bob and Charlotte are feeling lost by their current situations, which are not helped by the cultural barriers they feel in Tokyo, those cultural barriers extending far beyond just not knowing the language. After a few chance encounters in the hotel, they end up spending much of their time hanging out together, each helping the other deal with their feelings of loss in their current lives. The friendship that develops between the two, which is not always a bumpy-free one, may be just for this specific place and time, but it may also have long lasting implications.&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.&amp;rdquo;,&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, German, French, Japanese&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA, Japan&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Won 1 Oscar. Another 93 wins &amp;amp; 118 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;89&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.8&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;317,915&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0335266&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;95&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;8.4&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;223&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;212&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;11&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Effectively balancing humor and subtle pathos, Sofia Coppola crafts a moving, melancholy story that serves as a showcase for both Bill Murray and Scarlett Johansson.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;86&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.6&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;334986&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/lost_in_translation/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/lost_in_translation/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;03 Feb 2004&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;$44.6M&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Focus Features&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.focusfeatures.com/index.php&amp;quot;&#34;&gt;http://www.focusfeatures.com/index.php&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/memento/</link>
+      <pubDate>Mon, 13 Jun 2016 21:57:06 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/memento/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Momento&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;2002&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;02 Nov 2002&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;5 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Short, Musical&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Manoel de Oliveira&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Pedro Abrunhosa&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;Portuguese&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;Portugal&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.4&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;988&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0793424&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;93&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;4.2&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;1846&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/momento/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/momento/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/pi/</link>
+      <pubDate>Mon, 13 Jun 2016 21:54:30 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/pi/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Pi&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1998&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;10 Jul 1998&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;84 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Drama, Thriller&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Darren Aronofsky&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Darren Aronofsky, Darren Aronofsky (story), Sean Gullette (story), Eric Watson (story), Darren Aronofsky (voice over written by), Sean Gullette (voice over written by)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Sean Gullette, Mark Margolis, Ben Shenkman, Pamela Hart&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Max is a genius mathematician who&amp;rsquo;s built a supercomputer at home that provides something that can be understood as a key for understanding all existence. Representatives both from a Hasidic cabalistic sect and high-powered Wall Street firm hear of that secret and attempt to seduce him.&amp;rdquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Hebrew&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;8 wins &amp;amp; 12 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTEwNzk1MDE0NDBeQTJeQWpwZ15BbWU4MDkwNTM5MjEx._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTEwNzk1MDE0NDBeQTJeQWpwZ15BbWU4MDkwNTM5MjEx._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;72&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.5&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;141,099&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0138704&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;87&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.3&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;55&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;48&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;7&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Dramatically gripping and frighteningly smart, this Lynchian thriller does wonders with its unlikely subject and shoestring budget.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;85&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.8&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;107758&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/pi/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/pi/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;12 Jan 1999&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Artisan&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/clerks/</link>
+      <pubDate>Mon, 13 Jun 2016 21:53:47 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/clerks/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Clerks&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1994&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;04 Nov 1994&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;92 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Comedy&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Kevin Smith&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Kevin Smith&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Brian O&amp;rsquo;Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Dante Hicks is not having a good day. He works as a clerk in a small convenience store and is told to come into work on his day off. Dante thinks life is a series of down endings and this day is proving to no different. He reads in the newspaper that his ex-girlfriend Caitlin is getting married. His present girlfriend reveals to have somewhat more experience with sex that he ever imagined. His principal concerns are the hockey game he has that afternoon and the wake for a friend who died. His buddy Randal Graves works as a clerk in the video store next and he hates his job just about as much as Dante hates his.&amp;rdquo;,&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.&amp;rdquo;,&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;4 wins &amp;amp; 8 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTg3MTkyMzA0NF5BMl5BanBnXkFtZTgwNTg0NDI1MDE@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTg3MTkyMzA0NF5BMl5BanBnXkFtZTgwNTg0NDI1MDE@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;70&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.8&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;179,645&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0109445&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;88&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.4&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;49&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;43&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;6&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;89&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.8&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;284304&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/clerks/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/clerks/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;29 Jun 1999&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Miramax Films&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2001: A Space Odyssey</title>
+      <link>http://www.ericcarlisle.com/movie/2001-a-space-odyssey/</link>
+      <pubDate>Mon, 13 Jun 2016 21:52:10 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/2001-a-space-odyssey/</guid>
+      <description>
+
+&lt;h2 id=&#34;plot&#34;&gt;Plot&lt;/h2&gt;
+
+&lt;p&gt;2001 is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon&amp;rsquo;s surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now a race begins between computers (HAL) and human (Bowman) to reach the monolith placers. The winner will achieve the next step in evolution, whatever that may be.&lt;/p&gt;
+
+&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;2001: A Space Odyssey&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1968&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;G&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;15 May 1968&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;149 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Adventure, Mystery, Sci-Fi&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Stanley Kubrick&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Stanley Kubrick (screenplay), Arthur C. Clarke (screenplay)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;\&amp;ldquo;2001\&amp;rdquo; is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon&amp;rsquo;s surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now a race begins between computers (HAL) and human (
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.&amp;rdquo;,Bowman) to reach the monolith placers. The winner will achieve the next step in evolution, whatever that may be.&amp;ldquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Russian&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;UK, USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Won 1 Oscar. Another 13 wins &amp;amp; 7 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BNDYyMDgxNDQ5Nl5BMl5BanBnXkFtZTcwMjc1ODg3OA@@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BNDYyMDgxNDQ5Nl5BMl5BanBnXkFtZTcwMjc1ODg3OA@@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;86&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;8.3&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;420,721&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0062622&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;94&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;9.1&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;78&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;73&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;5&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;One of the most influential of all sci-fi films &amp;ndash; and one of the most controversial &amp;ndash; Stanley Kubrick&amp;rsquo;s 2001 is a delicate, poetic meditation on the ingenuity &amp;ndash; and folly &amp;ndash; of mankind.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;89&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.8&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;295222&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/1000085-2001_a_space_odyssey/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;25 Aug 1998&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Warner Bros. Pictures&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/the-matrix/</link>
+      <pubDate>Mon, 13 Jun 2016 21:50:10 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/the-matrix/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;The Matrix&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1999&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;31 Mar 1999&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;136 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Action, Sci-Fi&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Lana Wachowski, Lilly Wachowski&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Lilly Wachowski, Lana Wachowski&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans&amp;rsquo; body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.&amp;ldquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Won 4 Oscars. Another 33 wins &amp;amp; 44 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTkxNDYxOTA4M15BMl5BanBnXkFtZTgwNTk0NzQxMTE@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;73&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;8.7&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;1,195,371&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0133093&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;87&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.6&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;141&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;123&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;18&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Thanks to the Wachowskis&amp;rsquo; imaginative vision, The Matrix is a smartly crafted combination of spectacular action and groundbreaking special effects.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;85&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.6&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;33320891&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/matrix/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/matrix/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;21 Sep 1999&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Warner Bros. Pictures&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.whatisthematrix.com&amp;quot;&#34;&gt;http://www.whatisthematrix.com&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/the-dark-knight/</link>
+      <pubDate>Mon, 13 Jun 2016 21:48:53 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/the-dark-knight/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;The Dark Knight&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;2008&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;PG-13&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;18 Jul 2008&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;152 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Action, Crime, Thriller&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Christopher Nolan&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Set within a year after the events of Batman Begins, Batman, Lieutenant James Gordon, and new district attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City until a mysterious and sadistic criminal mastermind known only as the Joker appears in Gotham, creating a new wave of chaos. Batman&amp;rsquo;s struggle against the Joker becomes deeply personal, forcing him to \&amp;ldquo;confront everything he believes\&amp;rdquo; and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent and Rachel Dawes.&amp;ldquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Mandarin&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA, UK&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Won 2 Oscars. Another 146 wins &amp;amp; 141 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;82&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;9.0&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;1,640,329&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0468569&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;94&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;8.6&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;314&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;295&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;19&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Dark, complex and unforgettable, The Dark Knight succeeds not just as an entertaining comic book film, but as a richly thrilling crime saga.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;94&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;4.4&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;1822797&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/the_dark_knight/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/the_dark_knight/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;09 Dec 2008&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;$533.3M&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Warner Bros. Pictures//Legendary&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://thedarkknight.warnerbros.com/&amp;quot;&#34;&gt;http://thedarkknight.warnerbros.com/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

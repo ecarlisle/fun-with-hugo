@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body id="home">
+    <div class="container-fluid">
+      {{ partial "header" . }}
+      <div class="row">
+        {{ partial "nav" . }}
+        <main role="main" class="col-sm-10">
+          <article>
+            <h1>Flexible, Powerful Static Website Creation With Hugo</h1>
+            <p>
+              The static website has been reborn!  Using a static site generator can simplify website production, optimize performance, and improve security. By streamlining the production process, static site generators can make more time for creating content instead of maintaining the plumbing that delivers it.
+            </p>
+            <p>
+              <strong>Speaker:</strong> <a href="/eric/">Eric Carlisle</a>
+            </p>
+          </article>
+        </main>
+      </div>
+      {{ partial "footer" . }}
+    </div>
+    {{ template "_internal/google_analytics.html" . }}
+  </body>
+</html>
