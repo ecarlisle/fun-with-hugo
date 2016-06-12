@@ -1,0 +1,43 @@
+{{ $rating := .Params.rating }}
+{{ $actors := .Params.actors }}
+
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body id="movie">
+    <div class="container-fluid">
+      {{ partial "header" . }}
+      {{ partial "nav" . }}
+      <main role="main" class="row">
+      <section class="col-sm-6">
+        <h1>{{ replace .Title "-" " " | title }}</h1>
+        {{ with .Params.rating}}
+          <i class="fa fa-star rating-star" aria-hidden="true"></i>
+          {{ $rating }} Stars
+        {{ end }}
+
+        {{ with .Params.cast}}
+        <strong>Starring: </strong>
+        {{ range .Params.cast }}{{ . }}{{ end }}
+        {{ end }}
+
+        {{ .Content }}
+      </section>
+      <figure class="col-sm-4">
+
+        <!-- Gets movie poster from page params -->
+        {{ if .Params.poster_img }}
+        <img src="{{ .Params.poster_img }}" alt="{{ .Title }}" title="{{ .Title }}" class="img-responsive" />
+        {{ end }}
+
+        <!-- Gets movie poster with string functions  -->
+        {{ if .Params.show_poster }}
+        <img src="/assets/img/movies/{{ replace .Title " " "-" | lower }}.jpg" alt="{{ .Title }}" title="{{ .Title }}" class="img-responsive" />
+        {{ end }}
+
+      </figure>
+      </main>
+      {{ partial "footer" . }}
+    </div>
+  </body>
+</html>

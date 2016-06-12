@@ -1,0 +1,7 @@
+baseurl = "http://www.ericcarlisle.com/"
+languageCode = "en-us"
+title = "Flexible, Powerful Static Website Creation With Hugo"
+
+[taxonomies]
+genre = "genres"
+actor = "actors"
