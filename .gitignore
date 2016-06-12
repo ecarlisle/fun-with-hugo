@@ -42,5 +42,11 @@ Thumbs.db
 node_modules
 bower_components
 
+# Hugo Folders for Gulp-Generated Assets #
+##########################################
+static/assets/css/**/*
+static/assets/fonts/**/*
+static/assets/js/**/*
+
 
 
