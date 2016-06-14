@@ -1,7 +1,22 @@
 baseurl = "http://www.ericcarlisle.com/"
 languageCode = "en-us"
 title = "Flexible, Powerful Static Website Creation With Hugo"
+googleAnalytics = "UA-123-45"
+Paginate = 1
 
 [taxonomies]
+slide = "slides"
 genre = "genres"
-actor = "actors"
+
+[[menu.main]]
+    name = "About SSGs"
+    url = "/static-site-generator/"
+    pre= ""
+[[menu.main]]
+    name = "Intro to Hugo"
+    url = "/hugo/"
+    pre= ""
+[[menu.main]]
+    name = "Movies"
+    url = "/movie/"
+    pre= ""

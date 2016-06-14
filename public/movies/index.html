@@ -22,9 +22,18 @@
 
   <body>
     <div class="container-fluid">
-      <header class="row" role="banner">
-  <span class="opener">FUN WITH</span>
-  <img class="logo" src="/assets/img/hugo-header-logo.png"/>
+      <header class="row cf" role="banner">
+  <div class="lfloat">
+    <span class="opener">FUN WITH</span>
+    <a href="http://www.ericcarlisle.com/">
+      <img class="logo" src="/assets/img/hugo-header-logo.png"/>
+    </a>
+  </div>
+
+  <a class="rfloat" href="http://www.ericcarlisle.com/index.xml">
+    <i class="fa fa-rss"></i>
+  </a>
+
 </header>
       <main role="main" class="row">
       <div class="col-sm-2 sidebar">
@@ -34,17 +43,33 @@
     <li><a href="#">HUGO</a></li>
   </ul>
   <ul class="nav nav-sidebar">
-    <li><a href="">Films</a></li>
-    <li><a href="">Movies</a></li>
-    <li><a href="">Flicks</a></li>
+    <li><a href="/movies">Movies</a></li>
   </ul>
 </div>
       <section class="col-sm-10">
+        <h1>Movies</h1>
+        <ul id="list" class="row">
+          
+            <li class="movie-summary" class="col-sm-2">
+    <a href="http://www.ericcarlisle.com/movies/comedy/the-big-lebowski/">The Big Lebowski</a>
+    The Dude Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+    
+    <img class="small-poster" src="/assets/img/movies/the-big-lebowski.jpg" />
+    
+</li>
 
+          
+            <li class="movie-summary" class="col-sm-2">
+    <a href="http://www.ericcarlisle.com/movies/scifi/tron/">Tron</a>
+    
+    
+</li>
+
+          
+        </ul>
       </section>
       </main>
       <footer>
-
 </footer>
     </div>
   </body>

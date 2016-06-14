@@ -1,4 +1,13 @@
-<header class="row" role="banner">
-  <span class="opener">FUN WITH</span>
-  <img class="logo" src="/assets/img/hugo-header-logo.png"/>
+<header class="row cf" role="banner">
+  <div class="lfloat">
+    <span class="opener">FUN WITH</span>
+    <a href="{{ .Site.BaseURL }}">
+      <img class="logo" src="/assets/img/hugo-header-logo.png"/>
+    </a>
+  </div>
+
+  <a class="rfloat" href="{{ .Site.RSSLink }}">
+    <i class="fa fa-rss"></i>
+  </a>
+
 </header>

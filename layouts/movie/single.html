@@ -1,0 +1,52 @@
+{{ $rating := .Params.rating }}
+
+<!DOCTYPE html>
+<html>
+  {{ partial "head" . }}
+  <body id="movie">
+    <div class="container-fluid">
+      {{ partial "header" . }}
+      {{ partial "nav" . }}
+      <main role="main" class="row">
+      <section class="col-sm-6">
+        <h1>{{ replace .Title "-" " " | title }}</h1>
+
+        {{ with .Params.rating }}
+        {{ range (seq $rating) }}
+          <i class="fa fa-star rating-star" aria-hidden="true"></i>
+        {{ end }}
+        {{ end }}
+
+        {{ if .Params.cast }}
+        <p>
+          <strong>Starring: </strong>
+          {{ delimit .Params.cast ", " }}
+        </p>
+        {{ end }}
+
+        {{ with .Params.trailer_url }}
+
+        {{ end }}
+
+        {{ .Content }}
+      </section>
+      <figure class="col-sm-4">
+
+        <!-- Gets movie poster from page params -->
+        {{ if .Params.poster_img }}
+        <img src="{{ .Params.poster_img }}" alt="{{ title .Title }}" title="{{ title .Title }}" class="img-responsive movie-poster" />
+        {{ end }}
+
+        <!-- Gets movie poster with string functions  -->
+        <!--
+        {{ if .Params.show_poster }}
+        <img src="/assets/img/movies/{{ replace .Title " " "-" | lower }}.jpg" alt="{{ .Title }}" title="{{ .Title }}" class="img-responsive" />
+        {{ end }}
+        -->
+
+      </figure>
+      </main>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>

@@ -1,0 +1,9 @@
+<li class="movie-summary col-sm-3">
+    <h3><a href="{{ .Permalink }}">{{ title .Title }}</a></h3>
+    <p>
+        {{ .Description }}
+    </p>
+    {{ if .Params.poster_img }}
+    <img class="img-responsive" src="{{ .Params.poster_img }}" />
+    {{ end }}
+</li>
