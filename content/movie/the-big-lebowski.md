@@ -4,8 +4,8 @@ date = "2016-06-12T14:54:35-04:00"
 description = "The Dude Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it."
 genre = ["Comedy"]
 poster_img = "/assets/img/movies/the-big-lebowski.jpg"
-rating = "5"
-taxonomies = ["a", "b", "c"]
+rating = "R"
+stars = "5"
 title = "the big lebowski"
 year = "1998"
 +++
@@ -20,9 +20,9 @@ When <strong>"The Dude"</strong> Lebowski is mistaken for a millionaire Lebowske
 -->
 
 ## My Obervations
-1. All the protagonists are bowlers.
-2. All the antagonists are artists.
-3. Like in Roadhouse, Sam Elliott is awesome!
+1. All protagonists are bowlers.
+2. All antigonists are artists.
+3. Like in Roadhouse, Sam Elliott is incredible!
 
 ## Memorable Quotes
 
@@ -55,9 +55,10 @@ When <strong>"The Dude"</strong> Lebowski is mistaken for a millionaire Lebowske
 </blockquote>
 -->
 
+<!--
 ## Tweets
 {{<tweet 740679825187180544>}}
 {{<tweet 739141015265771520>}}
 {{<tweet 711931459162865664>}}
-
+-->
 

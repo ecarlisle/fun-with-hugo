@@ -8,15 +8,16 @@ Paginate = 1
 slide = "slides"
 genre = "genres"
 
-[[menu.main]]
+[[menu.ssg]]
     name = "About SSGs"
-    url = "/static-site-generator/"
+    url = "/static-site-generators/"
     pre= ""
-[[menu.main]]
+[[menu.ssg]]
     name = "Intro to Hugo"
     url = "/hugo/"
     pre= ""
-[[menu.main]]
+[[menu.content]]
     name = "Movies"
     url = "/movie/"
     pre= ""
+

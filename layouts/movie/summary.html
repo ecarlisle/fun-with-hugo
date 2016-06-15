@@ -1,9 +1,24 @@
-<li class="movie-summary col-sm-3">
-    <h3><a href="{{ .Permalink }}">{{ title .Title }}</a></h3>
-    <p>
-        {{ .Description }}
-    </p>
+<li class="movie-summary row">
+  <div class="col-sm-2">
     {{ if .Params.poster_img }}
     <img class="img-responsive" src="{{ .Params.poster_img }}" />
     {{ end }}
+  </div>
+  <div class="col-sm-10">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p>
+        {{ .Description }}
+    </p>
+    <p>
+      <strong>Year: </strong>{{ .Params.year }}
+    </p>
+    <p>
+      <strong>Director: </strong>{{ .Params.director }}
+    </p>
+    <p>
+      <strong>Cast: </strong>{{ delimit .Params.cast ", " }}
+    </p>
+    <p>
+      <strong>Rating: </strong>{{ .Params.rating }}
+    </p>
 </li>

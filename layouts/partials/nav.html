@@ -1,10 +1,23 @@
-<div class="col-sm-2 sidebar">
-  <nav class="nav nav-sidebar">
-    {{ range .Site.Menus.main }}
-    <li>
+<nav class="col-md-2 nav-main">
+  <ul>
+
+    <li class="title">
+      Static Site Generators
+    </li>
+    {{ range .Site.Menus.ssg }}
+    <li class="item">
       <a href="{{ .URL }}">{{ .Name }}</a>
     </li>
     {{ end }}
+
+    <li class="title">
+      Let's See Some Content!
+    </li>
+    {{ range .Site.Menus.content }}
+    <li class="item">
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    </li>
+    {{ end }}
+
   </ul>
-  </nav>
-</div>
+</nav>

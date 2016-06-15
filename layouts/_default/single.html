@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html>
   {{ partial "head" . }}
-  <body>
+  <body id="home">
     <div class="container-fluid">
       {{ partial "header" . }}
-      <main role="main" class="row">
-      {{ partial "nav" . }}
-      <section class="col-sm-10">
-        {{ .Content }}
-      </section>
-      </main>
+      <div class="row">
+        {{ partial "nav" . }}
+        <main role="main" class="col-sm-10">
+          {{ .Content }}
+        </main>
+      </div>
       {{ partial "footer" . }}
     </div>
+    {{ template "_internal/google_analytics.html" . }}
   </body>
 </html>

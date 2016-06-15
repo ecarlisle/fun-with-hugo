@@ -38,7 +38,13 @@ gulp.task('fonts', function() {
       'node_modules/font-awesome/fonts/**/*',
     ])
     .pipe(gulp.dest('static/assets/fonts'));
+});
 
+gulp.task('images', function() {
+  return gulp.src([
+      'custom_assets/img/**/*',
+    ])
+    .pipe(gulp.dest('static/assets/img/'));
 });
 
 gulp.task('scripts', function() {
@@ -51,7 +57,6 @@ gulp.task('scripts', function() {
       'fun-with-hugo.js'
     ]))
     .pipe(concat('main.js'))
-    .pipe(uglify())
     .pipe(gulp.dest('static/assets/js'));
 });
 
@@ -63,9 +68,10 @@ gulp.task('jshint', function() {
 
 // Watchers
 gulp.task('watch', function() {
-  gulp.watch('custom_assets/js/*.js', ['lint', 'scripts']);
+  gulp.watch('custom_assets/js/*.js', ['jshint', 'scripts']);
   gulp.watch('custom_assets/scss/*.scss', ['styles']);
+  gulp.watch('custom_assets/img/**/*', ['images']);
 });
 
 // Default (Build) Task
-gulp.task('default', ['jshint', 'styles', 'scripts', 'fonts', 'watch']);
+gulp.task('default', ['jshint', 'styles', 'scripts', 'images', 'fonts', 'watch']);

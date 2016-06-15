@@ -6,10 +6,10 @@ date = ""
 # Taxonomies
 genre = ["Genre1", "Genre2", "Genre3"]
 cast = ["Actor1", "Actor2", "Actor3"]
-category ["Film", "Movie", "Flick"]
 
-year = "1998"
+year = ""
 rating = ""
 poster_img = ""
-trailer_url = ""
+stars = ""
+director=""
 +++

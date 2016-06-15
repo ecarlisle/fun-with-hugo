@@ -4,18 +4,19 @@
   <body>
     <div class="container-fluid">
       {{ partial "header" . }}
-      <main role="main" class="row">
-      {{ partial "nav" . }}
-      <section class="col-sm-10">
-        <h1>{{ replace .Title "-" " " | title }} </h1>
-        <ul id="list" class="row">
+      <div class="row">
+        {{ partial "nav" . }}
+        <main role="main" class="col-sm-10">
+          <h1>{{ .Title  }}</h1>
+          <ol id="list">
           {{ range .Data.Pages }}
             {{ .Render "summary" }}
           {{ end }}
-        </ul>
-      </section>
-      </main>
+          </ol>
+        </main>
+      </div>
       {{ partial "footer" . }}
     </div>
+    {{ template "_internal/google_analytics.html" . }}
   </body>
 </html>

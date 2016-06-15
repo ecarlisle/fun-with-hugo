@@ -44,7 +44,6 @@ main {
   background: #FFF;
   color: #0A0503;
   font-size: 2rem;
-  padding: 2rem;
 }
 
 h1,
@@ -62,8 +61,13 @@ h2 {
   margin: 3rem 0 1rem;
 }
 
-a {
+a, a:active, a:visited, a:hover {
   color: #0594CB;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 blockquote {
@@ -86,7 +90,6 @@ header .logo {
   width: 20rem;
 }
 header .opener {
-  cursor: pointer;
   display: inline-block;
   letter-spacing: 2px;
 }
@@ -96,11 +99,9 @@ header .opener {
   font-size: 3.6rem;
 }
 
-#movie h1 {
-  display: inline-block;
-  margin-right: 2rem;
+main {
+  padding: 3rem;
 }
-
 main .opener {
   font-size: 1.8rem;
   font-weight: bold;
@@ -109,8 +110,16 @@ main h1 {
   margin-top: 0.5rem;
 }
 
-.movie-poster {
-  margin-top: 2.5rem;
+#home p {
+  margin: 3rem 0 2rem 0;
+}
+
+#movie h1 {
+  display: inline-block;
+  margin: 0 2rem 2rem 0;
+}
+#movie .poster {
+  padding: 3rem;
 }
 
 li.movie-summary {
@@ -120,10 +129,50 @@ li.movie-summary p {
   font-size: 1.6rem;
 }
 
+#slide .slide-arrow-left, #slide .slide-arrow-right {
+  font-size: 10rem;
+}
+
 .rfloat {
   float: right;
 }
 
 .lfloat {
   float: left;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.nav-main {
+  margin: 0;
+  padding: 0;
+}
+.nav-main ul {
+  border-width: 0 1px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-main li {
+  padding: 1rem;
+}
+.nav-main .item {
+  background: #eee;
+  border: solid 1px #ddd;
+  margin: 1rem 2rem 1rem 2rem;
+}
+.nav-main .title {
+  font: 2rem 'oswald', san-serif;
+  padding: 0rem 1rem;
+  margin: 2rem 2rem 0rem;
 }
