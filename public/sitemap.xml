@@ -27,56 +27,6 @@
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/hugo/10/</loc>
-    <lastmod>2016-06-14T01:54:03-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/09/</loc>
-    <lastmod>2016-06-14T01:53:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/08/</loc>
-    <lastmod>2016-06-14T01:53:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/07/</loc>
-    <lastmod>2016-06-14T01:53:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/06/</loc>
-    <lastmod>2016-06-14T01:53:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/05/</loc>
-    <lastmod>2016-06-14T01:53:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/04/</loc>
-    <lastmod>2016-06-14T01:53:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/03/</loc>
-    <lastmod>2016-06-14T01:53:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/getting-hugo/</loc>
-    <lastmod>2016-06-14T01:53:41-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</loc>
-    <lastmod>2016-06-14T01:53:38-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.ericcarlisle.com/movie/garden-state/</loc>
     <lastmod>2016-06-13T22:01:11-04:00</lastmod>
   </url>
@@ -192,18 +142,38 @@
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/01-what-is-an-ssg/</loc>
+    <loc>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</loc>
+    <lastmod>2016-06-14T01:53:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/01-what-they-do/</loc>
     <lastmod>2016-06-01T01:04:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/02-that-sounds-weird/</loc>
+    <loc>http://www.ericcarlisle.com/hugo/02-getting-hugo/</loc>
+    <lastmod>2016-06-14T01:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/02-did-I-do-that-before/</loc>
     <lastmod>2016-06-14T00:41:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/03-flux/</loc>
+    <loc>http://www.ericcarlisle.com/hugo/03-configuration/</loc>
+    <lastmod>2016-06-14T01:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/03-but-still-why/</loc>
     <lastmod>2016-06-14T00:41:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/hugo/04/</loc>
+    <lastmod>2016-06-14T01:53:45-04:00</lastmod>
   </url>
   
   <url>
@@ -212,18 +182,38 @@
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/05-keep-it-simple/</loc>
+    <loc>http://www.ericcarlisle.com/hugo/05/</loc>
+    <lastmod>2016-06-14T01:53:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/05-we-make-it-that-way/</loc>
+    <lastmod>2016-06-14T00:41:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/06-ssgs-allow/</loc>
     <lastmod>2016-06-14T00:41:27-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/06-what-do-i-get/</loc>
+    <loc>http://www.ericcarlisle.com/hugo/06/</loc>
+    <lastmod>2016-06-14T01:53:50-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/hugo/07/</loc>
+    <lastmod>2016-06-14T01:53:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/07-what-do-i-get/</loc>
     <lastmod>2016-06-14T00:41:58-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/07-anything-else/</loc>
-    <lastmod>2016-06-14T00:42:01-04:00</lastmod>
+    <loc>http://www.ericcarlisle.com/hugo/08/</loc>
+    <lastmod>2016-06-14T01:53:56-04:00</lastmod>
   </url>
   
   <url>
@@ -232,12 +222,22 @@
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/09-start-soapbox/</loc>
+    <loc>http://www.ericcarlisle.com/hugo/09/</loc>
+    <lastmod>2016-06-14T01:53:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/10-start-soapbox/</loc>
     <lastmod>2016-06-14T00:42:04-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ericcarlisle.com/static-site-generators/10-content-strategy/</loc>
+    <loc>http://www.ericcarlisle.com/hugo/10/</loc>
+    <lastmod>2016-06-14T01:54:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.ericcarlisle.com/static-site-generators/11-content-strategy/</loc>
     <lastmod>2016-06-14T00:42:06-04:00</lastmod>
   </url>
   

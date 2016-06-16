@@ -3183,7 +3183,7 @@ function createOptions( options ) {
  *
  * Possible options:
  *
- *	once:			will ensure thishe callback list can only be fired once (like a Deferred)
+ *	once:			will ensure the callback list can only be fired once (like a Deferred)
  *
  *	memory:			will keep track of previous values and will call any callback added
  *					after the list has been fired right away with the latest "memorized"

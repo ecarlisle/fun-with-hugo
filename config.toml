@@ -1,23 +1,28 @@
 baseurl = "http://www.ericcarlisle.com/"
 languageCode = "en-us"
 title = "Flexible, Powerful Static Website Creation With Hugo"
+
+[Params]
 googleAnalytics = "UA-123-45"
-Paginate = 1
+disqusShortname = "Hugh Jackman"
+PygmentsStyle = "native"
+PygmentsUseClasses = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsCodeFences = true
 
 [taxonomies]
 slide = "slides"
 genre = "genres"
+rating = "ratings"
+year = "years"
 
 [[menu.ssg]]
     name = "About SSGs"
     url = "/static-site-generators/"
-    pre= ""
 [[menu.ssg]]
     name = "Intro to Hugo"
     url = "/hugo/"
-    pre= ""
 [[menu.content]]
     name = "Movies"
     url = "/movie/"
-    pre= ""
 

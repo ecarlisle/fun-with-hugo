@@ -39,6 +39,7 @@
           {{ end }}
 
           {{ .Content }}
+
         </article>
         <figure class="col-sm-4 poster">
 
@@ -46,13 +47,6 @@
           {{ if .Params.poster_img }}
           <img src="{{ .Params.poster_img }}" alt="{{ title .Title }}" title="{{ title .Title }}" class="img-responsive" />
           {{ end }}
-
-          <!-- Gets movie poster with string functions  -->
-          <!--
-          {{ if .Params.show_poster }}
-          <img src="/assets/img/movies/{{ replace .Title " " "-" | lower }}.jpg" alt="{{ .Title }}" title="{{ .Title }}" class="img-responsive" />
-          {{ end }}
-          -->
 
         </figure>
         </main>

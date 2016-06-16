@@ -6,60 +6,69 @@
     <description>Recent content in Hugos on Flexible, Powerful Static Website Creation With Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2016 01:54:03 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jun 2016 01:53:38 -0400</lastBuildDate>
     <atom:link href="http://www.ericcarlisle.com/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>10</title>
-      <link>http://www.ericcarlisle.com/hugo/10/</link>
-      <pubDate>Tue, 14 Jun 2016 01:54:03 -0400</pubDate>
+      <title>Hi, I&#39;m Hugo!</title>
+      <link>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:38 -0400</pubDate>
       
-      <guid>http://www.ericcarlisle.com/hugo/10/</guid>
-      <description></description>
+      <guid>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;big&#34;&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    A compiled binary written in Go.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Works with a number of operating systems.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Extremely fast, built for performance.
+  &lt;/li&gt;
+  &lt;li&gt;
+    Powerful content model matched with a powerful template implementation.
+  &lt;/li&gt;
+  &lt;li&gt;
+    HUGO has no asset pipeline, minimal native &amp;ldquo;plugin&amp;rdquo; archtitecture, and plugins cannot be written for it.
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/span&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>09</title>
-      <link>http://www.ericcarlisle.com/hugo/09/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:59 -0400</pubDate>
+      <title>Getting Hugo</title>
+      <link>http://www.ericcarlisle.com/hugo/02-getting-hugo/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:43 -0400</pubDate>
       
-      <guid>http://www.ericcarlisle.com/hugo/09/</guid>
-      <description></description>
+      <guid>http://www.ericcarlisle.com/hugo/02-getting-hugo/</guid>
+      <description>&lt;h2&gt;General Info&lt;/h2&gt;
+&lt;p&gt;
+  &lt;strong&gt;Website:&lt;/strong&gt; &lt;a href=&#34;http://https://gohugo.io&#34;&gt;http://https://gohugo.io&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/spf13/hugo&#34;&gt;https://github.com/spf13/hugo&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;Installation&lt;/h2&gt;
+
+&lt;p&gt;&lt;p&gt;OSX:&lt;/p&gt;
+&lt;pre class=&#34;fg-green&#34;&gt;
+  brew update &amp;amp;&amp;amp; brew install hugo
+&lt;/pre&gt;
+&lt;br/&gt;
+&lt;p&gt;Windows, Linux:&lt;/p&gt;
+&lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;https://github.com/spf13/hugo/releases&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>08</title>
-      <link>http://www.ericcarlisle.com/hugo/08/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:56 -0400</pubDate>
+      <title>03</title>
+      <link>http://www.ericcarlisle.com/hugo/03-configuration/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:43 -0400</pubDate>
       
-      <guid>http://www.ericcarlisle.com/hugo/08/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>07</title>
-      <link>http://www.ericcarlisle.com/hugo/07/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:53 -0400</pubDate>
-      
-      <guid>http://www.ericcarlisle.com/hugo/07/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>06</title>
-      <link>http://www.ericcarlisle.com/hugo/06/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:50 -0400</pubDate>
-      
-      <guid>http://www.ericcarlisle.com/hugo/06/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>05</title>
-      <link>http://www.ericcarlisle.com/hugo/05/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:48 -0400</pubDate>
-      
-      <guid>http://www.ericcarlisle.com/hugo/05/</guid>
+      <guid>http://www.ericcarlisle.com/hugo/03-configuration/</guid>
       <description></description>
     </item>
     
@@ -73,51 +82,57 @@
     </item>
     
     <item>
-      <title>03</title>
-      <link>http://www.ericcarlisle.com/hugo/03/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:43 -0400</pubDate>
+      <title>05</title>
+      <link>http://www.ericcarlisle.com/hugo/05/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:48 -0400</pubDate>
       
-      <guid>http://www.ericcarlisle.com/hugo/03/</guid>
+      <guid>http://www.ericcarlisle.com/hugo/05/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Get </title>
-      <link>http://www.ericcarlisle.com/hugo/getting-hugo/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:41 -0400</pubDate>
+      <title>06</title>
+      <link>http://www.ericcarlisle.com/hugo/06/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:50 -0400</pubDate>
       
-      <guid>http://www.ericcarlisle.com/hugo/getting-hugo/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;https://github.com/spf13/hugo/releases&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For OSX:
-brew update &amp;amp;&amp;amp; brew install hugo&lt;/p&gt;
-</description>
+      <guid>http://www.ericcarlisle.com/hugo/06/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hi, I&#39;m Hugo!</title>
-      <link>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</link>
-      <pubDate>Tue, 14 Jun 2016 01:53:38 -0400</pubDate>
+      <title>07</title>
+      <link>http://www.ericcarlisle.com/hugo/07/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:53 -0400</pubDate>
       
-      <guid>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;A compiled binary written in Go .
-[works on different OSes - Jekyll with Windows]
-[bytecode == FAST!  ]&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Very powerful content model&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Template by directory structure, by content type&lt;/li&gt;
-&lt;li&gt;taxonomy templates - usually for&lt;/li&gt;
-&lt;li&gt;path overridesss&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;No Asset Pipeline, No Plugins (actually, that&amp;rsquo;s good)
-[not trying to be gulp, grunt, task runner]
-[but it&amp;rsquo;s also bad - manages text, not media]&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.ericcarlisle.com/hugo/07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>08</title>
+      <link>http://www.ericcarlisle.com/hugo/08/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:56 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>09</title>
+      <link>http://www.ericcarlisle.com/hugo/09/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:59 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10</title>
+      <link>http://www.ericcarlisle.com/hugo/10/</link>
+      <pubDate>Tue, 14 Jun 2016 01:54:03 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/10/</guid>
+      <description></description>
     </item>
     
   </channel>
