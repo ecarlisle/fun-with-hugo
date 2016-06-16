@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugos on Flexible, Powerful Static Website Creation With Hugo</title>
+    <link>http://www.ericcarlisle.com/hugo/</link>
+    <description>Recent content in Hugos on Flexible, Powerful Static Website Creation With Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jun 2016 01:54:03 -0400</lastBuildDate>
+    <atom:link href="http://www.ericcarlisle.com/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>10</title>
+      <link>http://www.ericcarlisle.com/hugo/10/</link>
+      <pubDate>Tue, 14 Jun 2016 01:54:03 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>09</title>
+      <link>http://www.ericcarlisle.com/hugo/09/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:59 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>08</title>
+      <link>http://www.ericcarlisle.com/hugo/08/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:56 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>07</title>
+      <link>http://www.ericcarlisle.com/hugo/07/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:53 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>06</title>
+      <link>http://www.ericcarlisle.com/hugo/06/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:50 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>05</title>
+      <link>http://www.ericcarlisle.com/hugo/05/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:48 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>04</title>
+      <link>http://www.ericcarlisle.com/hugo/04/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:45 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>03</title>
+      <link>http://www.ericcarlisle.com/hugo/03/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:43 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get </title>
+      <link>http://www.ericcarlisle.com/hugo/getting-hugo/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:41 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/getting-hugo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;https://github.com/spf13/hugo/releases&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For OSX:
+brew update &amp;amp;&amp;amp; brew install hugo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hi, I&#39;m Hugo!</title>
+      <link>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:38 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A compiled binary written in Go .
+[works on different OSes - Jekyll with Windows]
+[bytecode == FAST!  ]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Very powerful content model&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Template by directory structure, by content type&lt;/li&gt;
+&lt;li&gt;taxonomy templates - usually for&lt;/li&gt;
+&lt;li&gt;path overridesss&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;No Asset Pipeline, No Plugins (actually, that&amp;rsquo;s good)
+[not trying to be gulp, grunt, task runner]
+[but it&amp;rsquo;s also bad - manages text, not media]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,7 @@
       <div class="row">
         {{ partial "nav" . }}
         <main role="main" class="col-sm-10">
-          <h1>{{ .Title  }}</h1>
+          <h1>{{ replace .Title "-" " " | title  }}</h1>
           <ol id="list">
           {{ range .Data.Pages }}
             {{ .Render "summary" }}

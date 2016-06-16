@@ -6,56 +6,280 @@
     <description>Recent content on Flexible, Powerful Static Website Creation With Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2016 18:25:26 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2016 11:14:40 -0500</lastBuildDate>
     <atom:link href="http://www.ericcarlisle.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>01</title>
-      <link>http://www.ericcarlisle.com/static-site-generator/01/</link>
-      <pubDate>Mon, 13 Jun 2016 18:25:26 -0400</pubDate>
+      <title>no country for old men</title>
+      <link>http://www.ericcarlisle.com/movie/no-country-for-old-men/</link>
+      <pubDate>Wed, 15 Jun 2016 11:14:40 -0500</pubDate>
       
-      <guid>http://www.ericcarlisle.com/static-site-generator/01/</guid>
-      <description>&lt;p&gt;qwelqwkeopqwepqwoe&lt;/p&gt;
-</description>
+      <guid>http://www.ericcarlisle.com/movie/no-country-for-old-men/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>the big lebowski</title>
-      <link>http://www.ericcarlisle.com/movie/comedy/the-big-lebowski/</link>
-      <pubDate>Sun, 12 Jun 2016 14:54:35 -0400</pubDate>
+      <title>Brazil</title>
+      <link>http://www.ericcarlisle.com/movie/brazil/</link>
+      <pubDate>Wed, 15 Jun 2016 03:24:38 -0400</pubDate>
       
-      <guid>http://www.ericcarlisle.com/movie/comedy/the-big-lebowski/</guid>
+      <guid>http://www.ericcarlisle.com/movie/brazil/</guid>
       <description>
 
 &lt;h2 id=&#34;plot&#34;&gt;Plot&lt;/h2&gt;
 
-&lt;p&gt;When &lt;strong&gt;&amp;ldquo;The Dude&amp;rdquo;&lt;/strong&gt; Lebowski is mistaken for a millionaire Lebowskeai, two thugs urinate on his rug to coerce him into paying a debt he knows nothing about. While attempting to gain recompense for the ruined rug from his wealthy counterpart, he accepts a one-time job with high pay-off. He enlists the help of his bowling buddy, Walter, a gun-toting Jewish-convert with anger issues. Deception leads to more trouble, and it soon seems that everyone from porn empire tycoons to nihilists want something from The Dude.&lt;/p&gt;
+&lt;p&gt;Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.&lt;/p&gt;
 
-&lt;h2 id=&#34;my-obervations&#34;&gt;My Obervations&lt;/h2&gt;
+&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Brazil&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1985&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;18 Dec 1985&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;132 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Drama, Sci-Fi&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Terry Gilliam&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Terry Gilliam (screenplay), Tom Stoppard (screenplay), Charles McKeown (screenplay)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Jonathan Pryce, Robert De Niro, Katherine Helmond, Ian Holm&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;UK&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Nominated for 2 Oscars. Another 8 wins &amp;amp; 3 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMTIwMDQ1NzQyOF5BMl5BanBnXkFtZTcwMTE4MDQzMQ@@._V1._CR3,43,349,456_SY132_CR6,0,89,132_AL_.jpg_V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMTIwMDQ1NzQyOF5BMl5BanBnXkFtZTcwMTE4MDQzMQ@@._V1._CR3,43,349,456_SY132_CR6,0,89,132_AL_.jpg_V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;88&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;8.0&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;150,303&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0088846&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;98&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;8.7&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;46&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;45&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;1&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Brazil, Terry Gilliam&amp;rsquo;s visionary Orwellian fantasy, is an audacious dark comedy, filled with strange, imaginative visuals.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;90&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;4.1&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;101762&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/1003033-brazil/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/1003033-brazil/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;31 Mar 1998&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Universal Pictures&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>run lola run</title>
+      <link>http://www.ericcarlisle.com/movie/run-lola-run/</link>
+      <pubDate>Wed, 15 Jun 2016 03:18:50 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/run-lola-run/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Run Lola Run&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;1998&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;18 Jun 1999&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;80 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Crime, Drama&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Tom Tykwer&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Tom Tykwer (screenplay)&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Franka Potente, Moritz Bleibtreu, Herbert Knaup, Nina Petri&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. Lola has 20 min to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola&amp;rsquo;s run.&amp;rdquo;,
+    &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;German, English, Japanese&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;Germany&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;Nominated for 1 BAFTA Film Award. Another 28 wins &amp;amp; 19 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMjA5MDg3MjYyOF5BMl5BanBnXkFtZTgwODk3NjkzMTE@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMjA5MDg3MjYyOF5BMl5BanBnXkFtZTgwODk3NjkzMTE@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;77&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.8&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;160,248&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0130827&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;93&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.7&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;80&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;74&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;6&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;More fun than a barrel of Jean-Paul Sartre, pic&amp;rsquo;s energy riffs on an engaging love story and really human performances while offering a series of what-ifs and a blood-stirring soundtrack.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;90&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.8&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;143504&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/run_lola_run/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/run_lola_run/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;21 Dec 1999&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Sony Pictures Classics&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;N/A&amp;rdquo;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eric Carlisle</title>
+      <link>http://www.ericcarlisle.com/eric/</link>
+      <pubDate>Wed, 15 Jun 2016 00:09:30 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/eric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10</title>
+      <link>http://www.ericcarlisle.com/hugo/10/</link>
+      <pubDate>Tue, 14 Jun 2016 01:54:03 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>09</title>
+      <link>http://www.ericcarlisle.com/hugo/09/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:59 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>08</title>
+      <link>http://www.ericcarlisle.com/hugo/08/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:56 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>07</title>
+      <link>http://www.ericcarlisle.com/hugo/07/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:53 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>06</title>
+      <link>http://www.ericcarlisle.com/hugo/06/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:50 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>05</title>
+      <link>http://www.ericcarlisle.com/hugo/05/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:48 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>04</title>
+      <link>http://www.ericcarlisle.com/hugo/04/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:45 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>03</title>
+      <link>http://www.ericcarlisle.com/hugo/03/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:43 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get </title>
+      <link>http://www.ericcarlisle.com/hugo/getting-hugo/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:41 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/getting-hugo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;https://github.com/spf13/hugo/releases&lt;/a&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;All the protagonists are bowlers.&lt;/li&gt;
-&lt;li&gt;All the antagonists are artists.&lt;/li&gt;
-&lt;li&gt;Like in Roadhouse, Sam Elliott is awesome!&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;For OSX:
+brew update &amp;amp;&amp;amp; brew install hugo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hi, I&#39;m Hugo!</title>
+      <link>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</link>
+      <pubDate>Tue, 14 Jun 2016 01:53:38 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/hugo/01-hi-im-hugo/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A compiled binary written in Go .
+[works on different OSes - Jekyll with Windows]
+[bytecode == FAST!  ]&lt;/p&gt;&lt;/li&gt;
 
-&lt;h2 id=&#34;memorable-quotes&#34;&gt;Memorable Quotes&lt;/h2&gt;
+&lt;li&gt;&lt;p&gt;Very powerful content model&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;“Hey, careful man, there&amp;rsquo;s a beverage here!”&lt;/em&gt; &lt;strong&gt;- The Dude&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Template by directory structure, by content type&lt;/li&gt;
+&lt;li&gt;taxonomy templates - usually for&lt;/li&gt;
+&lt;li&gt;path overridesss&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;!-- --&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Smokey, my friend, you are entering a world of pain.&amp;rdquo;&lt;/em&gt; &lt;strong&gt;- Walter Sobchak&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;!-- --&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Those are good burgers, Walter.”&lt;/em&gt; — &lt;strong&gt;Donny&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;li&gt;&lt;p&gt;No Asset Pipeline, No Plugins (actually, that&amp;rsquo;s good)
+[not trying to be gulp, grunt, task runner]
+[but it&amp;rsquo;s also bad - manages text, not media]&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ericcarlisle.com/movie/garden-state/</link>
+      <pubDate>Mon, 13 Jun 2016 22:01:11 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/movie/garden-state/</guid>
+      <description>&lt;p&gt;{
+  &amp;ldquo;Title&amp;rdquo;: &amp;ldquo;Garden State&amp;rdquo;,
+  &amp;ldquo;Year&amp;rdquo;: &amp;ldquo;2004&amp;rdquo;,
+  &amp;ldquo;Rated&amp;rdquo;: &amp;ldquo;R&amp;rdquo;,
+  &amp;ldquo;Released&amp;rdquo;: &amp;ldquo;20 Aug 2004&amp;rdquo;,
+  &amp;ldquo;Runtime&amp;rdquo;: &amp;ldquo;102 min&amp;rdquo;,
+  &amp;ldquo;Genre&amp;rdquo;: &amp;ldquo;Comedy, Drama, Romance&amp;rdquo;,
+  &amp;ldquo;Director&amp;rdquo;: &amp;ldquo;Zach Braff&amp;rdquo;,
+  &amp;ldquo;Writer&amp;rdquo;: &amp;ldquo;Zach Braff&amp;rdquo;,
+  &amp;ldquo;Actors&amp;rdquo;: &amp;ldquo;Zach Braff, Kenneth Graymez, George C. Wolfe, Austin Lysy&amp;rdquo;,
+  &amp;ldquo;Plot&amp;rdquo;: &amp;ldquo;A quietly troubled young man returns home for his mother&amp;rsquo;s funeral after being estranged from his family for a decade.&amp;rdquo;,
+  &amp;ldquo;Language&amp;rdquo;: &amp;ldquo;English, Klingon&amp;rdquo;,
+  &amp;ldquo;Country&amp;rdquo;: &amp;ldquo;USA&amp;rdquo;,
+  &amp;ldquo;Awards&amp;rdquo;: &amp;ldquo;13 wins &amp;amp; 37 nominations.&amp;ldquo;,
+  &amp;ldquo;Poster&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://ia.media-imdb.com/images/M/MV5BMjc5MDE0NjkxOF5BMl5BanBnXkFtZTcwNzA0NTkyMw@@._V1_SX300.jpg&amp;quot;&#34;&gt;http://ia.media-imdb.com/images/M/MV5BMjc5MDE0NjkxOF5BMl5BanBnXkFtZTcwNzA0NTkyMw@@._V1_SX300.jpg&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Metascore&amp;rdquo;: &amp;ldquo;67&amp;rdquo;,
+  &amp;ldquo;imdbRating&amp;rdquo;: &amp;ldquo;7.6&amp;rdquo;,
+  &amp;ldquo;imdbVotes&amp;rdquo;: &amp;ldquo;185,905&amp;rdquo;,
+  &amp;ldquo;imdbID&amp;rdquo;: &amp;ldquo;tt0333766&amp;rdquo;,
+  &amp;ldquo;Type&amp;rdquo;: &amp;ldquo;movie&amp;rdquo;,
+  &amp;ldquo;tomatoMeter&amp;rdquo;: &amp;ldquo;86&amp;rdquo;,
+  &amp;ldquo;tomatoImage&amp;rdquo;: &amp;ldquo;certified&amp;rdquo;,
+  &amp;ldquo;tomatoRating&amp;rdquo;: &amp;ldquo;7.4&amp;rdquo;,
+  &amp;ldquo;tomatoReviews&amp;rdquo;: &amp;ldquo;187&amp;rdquo;,
+  &amp;ldquo;tomatoFresh&amp;rdquo;: &amp;ldquo;161&amp;rdquo;,
+  &amp;ldquo;tomatoRotten&amp;rdquo;: &amp;ldquo;26&amp;rdquo;,
+  &amp;ldquo;tomatoConsensus&amp;rdquo;: &amp;ldquo;Delivering a quirky spin on familiar twentysomething tropes &amp;ndash; with a cannily-placed soundtrack &amp;ndash; Garden State has enough charm to mark a winning debut for first-time director Zach Braff.&amp;rdquo;,
+  &amp;ldquo;tomatoUserMeter&amp;rdquo;: &amp;ldquo;88&amp;rdquo;,
+  &amp;ldquo;tomatoUserRating&amp;rdquo;: &amp;ldquo;3.8&amp;rdquo;,
+  &amp;ldquo;tomatoUserReviews&amp;rdquo;: &amp;ldquo;329408&amp;rdquo;,
+  &amp;ldquo;tomatoURL&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www.rottentomatoes.com/m/garden_state/&amp;quot;&#34;&gt;http://www.rottentomatoes.com/m/garden_state/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;DVD&amp;rdquo;: &amp;ldquo;28 Dec 2004&amp;rdquo;,
+  &amp;ldquo;BoxOffice&amp;rdquo;: &amp;ldquo;$26.7M&amp;rdquo;,
+  &amp;ldquo;Production&amp;rdquo;: &amp;ldquo;Fox Searchlight&amp;rdquo;,
+  &amp;ldquo;Website&amp;rdquo;: &amp;ldquo;&lt;a href=&#34;http://www2.foxsearchlight.com/gardenstate/&amp;quot;&#34;&gt;http://www2.foxsearchlight.com/gardenstate/&amp;quot;&lt;/a&gt;,
+  &amp;ldquo;Response&amp;rdquo;: &amp;ldquo;True&amp;rdquo;
+}&lt;/p&gt;
 </description>
     </item>
     

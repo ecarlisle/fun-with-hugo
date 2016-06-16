@@ -1,15 +1,14 @@
 +++
 date = "2016-06-14T00:41:52-04:00"
 description = ""
-title = "It Gets Even Better..."
+title = "It Gets Even \"Better.\""
 type = "slide"
 opener = "About SSGs"
 weight = 4
 +++
 
-Why does everything get more complicated?
+<img src="/assets/img/cat-hat.jpg" align="left" />
 
-We make it that way.
-
-That's good! We're passionate.
-
+<span class="big">
+  Why do so many projects become so complicated?
+<span>

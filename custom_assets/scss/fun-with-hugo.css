@@ -32,6 +32,34 @@ Fun with HUGO - Custom CSS
   font-weight: bold;
   font-style: normal;
 }
+.fg-black {
+  color: #0A0503;
+}
+
+.fg-white {
+  color: #FFF;
+}
+
+.fg-blue {
+  color: #0594CB;
+}
+
+.fg-gold {
+  color: #ECBA46;
+}
+
+.fg-pink {
+  color: #CB257E;
+}
+
+.fg-gold {
+  color: #ECBA46;
+}
+
+.fg-green {
+  color: #00A98A;
+}
+
 html {
   font-size: 62.5%;
 }
@@ -76,8 +104,8 @@ blockquote {
   margin: 2rem 0;
 }
 
-ol li {
-  margin: 0.5rem 0;
+li {
+  margin: 1rem 0;
 }
 
 header {
@@ -95,7 +123,7 @@ header .opener {
 }
 
 .rating-star {
-  color: #DAA520;
+  color: #ECBA46;
   font-size: 3.6rem;
 }
 
@@ -107,7 +135,7 @@ main .opener {
   font-weight: bold;
 }
 main h1 {
-  margin-top: 0.5rem;
+  margin: 0.5rem 0 2rem;
 }
 
 #home p {
@@ -151,6 +179,130 @@ li.movie-summary p {
 
 .center {
   text-align: center;
+}
+
+.centered {
+  margin: 0 auto;
+}
+
+.uline {
+  text-decoration: underline;
+}
+
+.big {
+  font-size: 2.6rem;
+}
+.big li {
+  margin-bottom: 2rem;
+}
+
+.big-bold {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.mar-top-1 {
+  margin-top: 1rem;
+}
+
+.mar-top-2 {
+  margin-top: 2rem;
+}
+
+.mar-top-3 {
+  margin-top: 3rem;
+}
+
+.mar-right-1 {
+  margin-right: 1rem;
+}
+
+.mar-right-2 {
+  margin-right: 2rem;
+}
+
+.mar-right-3 {
+  margin-right: 3rem;
+}
+
+.mar-bottom-1 {
+  margin-bottom: 1rem;
+}
+
+.mar-bottom-2 {
+  margin-bottom: 2rem;
+}
+
+.mar-bottom-3 {
+  margin-bottom: 3rem;
+}
+
+.mar-left-1 {
+  margin-left: 1rem;
+}
+
+.mar-left-2 {
+  margin-left: 2rem;
+}
+
+.mar-left-3 {
+  margin-left: 3rem;
+}
+
+.fg-black {
+  color: #0A0503;
+}
+
+.fg-white {
+  color: #FFF;
+}
+
+.fg-blue {
+  color: #0594CB;
+}
+
+.fg-gold {
+  color: #ECBA46;
+}
+
+.fg-pink {
+  color: #CB257E;
+}
+
+.fg-gold {
+  color: #ECBA46;
+}
+
+.fg-green {
+  color: #00A98A;
+}
+
+.bg-black {
+  background: #0A0503;
+}
+
+.bg-white {
+  background: #FFF;
+}
+
+.bg-blue {
+  background: #0594CB;
+}
+
+.bg-gold {
+  background: #ECBA46;
+}
+
+.bg-pink {
+  background: #CB257E;
+}
+
+.bg-gold {
+  background: #ECBA46;
+}
+
+.bg-green {
+  background: #00A98A;
 }
 
 .nav-main {

@@ -3,22 +3,23 @@
 
 var cleancss = require('gulp-clean-css'),
   concat = require('gulp-concat'),
-  del = require('gulp-del'),
+  clean = require('gulp-clean'),
   debug = require('gulp-debug'),
-  del = require('gulp-del'),
   gulp = require('gulp'),
   gutil = require('gulp-util'),
   jshint = require('gulp-jshint'),
   order = require('gulp-order'),
   rename = require('gulp-rename'),
   sass = require('gulp-sass'),
-  shell = require('gulp-shell');
+  shell = require('gulp-shell'),
   sourcemaps = require('gulp-sourcemaps'),
   uglify = require('gulp-uglify'),
   webserver = require('gulp-webserver');
 
 gulp.task('clean', function() {
-  return gulp.src(del('public'));
+  return gulp.src('public', {read: false})
+    .pipe(clean('static/**/*'))
+    .pipe(shell('hugo'));
 });
 
 gulp.task('styles', function() {

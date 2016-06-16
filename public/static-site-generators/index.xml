@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static-site-generators on Flexible, Powerful Static Website Creation With Hugo</title>
+    <link>http://www.ericcarlisle.com/static-site-generators/</link>
+    <description>Recent content in Static-site-generators on Flexible, Powerful Static Website Creation With Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jun 2016 01:04:50 -0400</lastBuildDate>
+    <atom:link href="http://www.ericcarlisle.com/static-site-generators/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What Are Thou, Static Site Generator?</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/01-what-is-an-ssg/</link>
+      <pubDate>Wed, 01 Jun 2016 01:04:50 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/01-what-is-an-ssg/</guid>
+      <description>&lt;div class=&#34;big iblock mar-top1&#34;&gt;
+Use Case:
+&lt;/div&gt;
+
+&lt;p&gt;templates + content + metadata&lt;/p&gt;
+
+&lt;p&gt;build&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Go static again? That sounds weird. Why do that?</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/02-that-sounds-weird/</link>
+      <pubDate>Tue, 14 Jun 2016 00:41:21 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/02-that-sounds-weird/</guid>
+      <description>&lt;p&gt;Tech answer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SSGs Keep it Simple</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/03-flux/</link>
+      <pubDate>Tue, 14 Jun 2016 00:41:24 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/03-flux/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Example : JS tech&lt;/li&gt;
+&lt;li&gt;What do I use? (cloud)&lt;/li&gt;
+&lt;li&gt;Overwhelming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>It Gets Even Better...</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/04-it-gets-even-better/</link>
+      <pubDate>Tue, 14 Jun 2016 00:41:52 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/04-it-gets-even-better/</guid>
+      <description>&lt;p&gt;Why does everything get more complicated?&lt;/p&gt;
+
+&lt;p&gt;We make it that way.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s good! We&amp;rsquo;re passionate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keeping it Simple</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/05-keep-it-simple/</link>
+      <pubDate>Tue, 14 Jun 2016 00:41:27 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/05-keep-it-simple/</guid>
+      <description>&lt;p&gt;KISS
+(banged over the head with that)&lt;/p&gt;
+
+&lt;p&gt;[
+Keep it Stunningly Simple&lt;/p&gt;
+
+&lt;p&gt;alternatively.&lt;/p&gt;
+
+&lt;p&gt;KIS
+(arguable that this is phoenetically important)
+]&lt;/p&gt;
+
+&lt;p&gt;BTW&amp;hellip; KISS != easy
+(sometimes it&amp;rsquo;s hard to think simple)&lt;/p&gt;
+
+&lt;p&gt;By keeping things simple, you can often get more done.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What will an SSG give me?</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/06-what-do-i-get/</link>
+      <pubDate>Tue, 14 Jun 2016 00:41:58 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/06-what-do-i-get/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Less dependencies - No Server-side stack
+-&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;All you need is an HTTP server. (agnostic)
+(just need a web server, it&amp;rsquo;s server agnostic works on GitHub pages, others (look that up))&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Performance&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Security&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Content Source Control&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anything Else?</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/07-anything-else/</link>
+      <pubDate>Tue, 14 Jun 2016 00:42:01 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/07-anything-else/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a good place to start&lt;/p&gt;
+
+&lt;p&gt;Popular CMSs are &amp;ldquo;seemingly simple,&amp;rdquo; but&amp;hellip;
+(Ackbar)&lt;/p&gt;
+
+&lt;p&gt;Can get the data to find out what I really need.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OK, pretty words. Whats the rub?</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/08-whats-the-rub/</link>
+      <pubDate>Tue, 14 Jun 2016 00:41:52 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/08-whats-the-rub/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;No wordpress UI
+(not a hater)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Requires technical prowess&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Harder&lt;/strong&gt; to achieve dynamic content&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Extensively &lt;em&gt;cough&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Scalability &lt;em&gt;cough&lt;/em&gt;
+(# of pages, team workflow)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&lt;cf_soapbox evangelize=&#39;Um, yes!&#39; /&gt;</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/09-start-soapbox/</link>
+      <pubDate>Tue, 14 Jun 2016 00:42:04 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/09-start-soapbox/</guid>
+      <description>&lt;p&gt;Cultivates a different way of thinking.&lt;/p&gt;
+
+&lt;p&gt;How should I coordinate my production?&lt;/p&gt;
+
+&lt;p&gt;Should I start coding first or designing first? (Silo Generalization)&lt;/p&gt;
+
+&lt;p&gt;Responsive design is a challenge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>.soapbox:after { content=&#39;Yes, Please!&#39; }</title>
+      <link>http://www.ericcarlisle.com/static-site-generators/10-content-strategy/</link>
+      <pubDate>Tue, 14 Jun 2016 00:42:06 -0400</pubDate>
+      
+      <guid>http://www.ericcarlisle.com/static-site-generators/10-content-strategy/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Why not start with a content strategy?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Example: Content-Out Methodology&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;How well are you currently delivering content (or data)?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Is your content / data good?
+(Example: Twitter)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It&amp;rsquo;s easy to be distracted from content production.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

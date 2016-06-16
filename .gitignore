@@ -44,9 +44,7 @@ bower_components
 
 # Hugo Folders for Gulp-Generated Assets #
 ##########################################
-static/assets/css/**/*
-static/assets/fonts/**/*
-static/assets/js/**/*
+static/**/*
 
 
 

@@ -23,6 +23,7 @@
     "del": "^2.2.0",
     "font-awesome": "^4.6.3",
     "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
     "gulp-clean-css": "^2.0.10",
     "gulp-concat": "^2.6.0",
     "gulp-debug": "^2.1.2",
