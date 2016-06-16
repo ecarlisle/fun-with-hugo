@@ -7,16 +7,12 @@ opener = "About SSGs"
 weight = 10
 +++
 
-<img src="/assets/img/fail-whale.png" />
-
-- Why not start with a content strategy?
-
-- Example: Content-Out Methodology
-
-- How well are you currently delivering content (or data)?
-
-- Is your content / data good?
-  (Example: Twitter)
-
-- It's easy to be distracted from content production.
+<img src="/assets/img/fail-whale.png" align="right" />
+<ol>
+  <li>Why not start with a content strategy?</li>
+  <li>Example: Content-Out Methodology</li>
+  <li>How well are you currently delivering content (or data)?</li>
+  <li>Is your content / data good?</li>
+  <li>It's very easy to be distracted from content production.</li>
+</ol>
 
