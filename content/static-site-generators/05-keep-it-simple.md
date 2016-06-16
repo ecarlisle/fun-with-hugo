@@ -1,7 +1,7 @@
 +++
 date = "2016-06-14T00:41:27-04:00"
 description = ""
-title = "04"
+title = "Keeping it Simple"
 type = "slide"
 opener = "About SSGS"
 weight = 5

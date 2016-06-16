@@ -6,5 +6,6 @@ type = "slide"
 opener = "About SSGS"
 weight = 1
 +++
-
+{{< slidemark 1 >}}
 templates + content + metadata -> build ->
+{{</ slidemark  >}}

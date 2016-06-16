@@ -1,7 +1,7 @@
 +++
 date = "2016-06-14T00:41:52-04:00"
 description = ""
-title = "OK, pretty words. What's the rub?"
+title = "OK, pretty words. Whats the rub?"
 type = "slide"
 opener = "About SSGs"
 weight = 8

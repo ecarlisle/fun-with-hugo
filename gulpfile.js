@@ -3,16 +3,23 @@
 
 var cleancss = require('gulp-clean-css'),
   concat = require('gulp-concat'),
+  del = require('gulp-del'),
   debug = require('gulp-debug'),
+  del = require('gulp-del'),
   gulp = require('gulp'),
   gutil = require('gulp-util'),
+  jshint = require('gulp-jshint'),
   order = require('gulp-order'),
   rename = require('gulp-rename'),
   sass = require('gulp-sass'),
+  shell = require('gulp-shell');
   sourcemaps = require('gulp-sourcemaps'),
   uglify = require('gulp-uglify'),
-  jshint = require('gulp-jshint'),
   webserver = require('gulp-webserver');
+
+gulp.task('clean', function() {
+  return gulp.src(del('public'));
+});
 
 gulp.task('styles', function() {
   return gulp.src([
@@ -74,4 +81,4 @@ gulp.task('watch', function() {
 });
 
 // Default (Build) Task
-gulp.task('default', ['jshint', 'styles', 'scripts', 'images', 'fonts', 'watch']);
+gulp.task('default', ['clean', 'jshint', 'styles', 'scripts', 'images', 'fonts', 'watch']);
