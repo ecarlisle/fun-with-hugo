@@ -7,6 +7,8 @@ opener = "About SSGs"
 weight = 10
 +++
 
+<img src="/assets/img/fail-whale.png" />
+
 - Why not start with a content strategy?
 
 - Example: Content-Out Methodology

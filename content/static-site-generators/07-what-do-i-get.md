@@ -9,16 +9,18 @@ weight = 7
 
 <ol class="big">
 
-  <li></li>
+  <li>Less dependencies - No server-side stack.</li>
 
+  <li>All you need is an HTTP server.</li>
+
+  <li>Works on GitHub pages (with some help).</li>
+
+  <li>Performance</li>
+
+  <li>Security</li>
+
+  <li>Content Source Control</li>
 
 </ol>
-- Less dependencies - No Server-side stack
--
-- All you need is an HTTP server. (agnostic)
- (just need a web server, it's server agnostic works on GitHub pages, others (look that up))
 
-- Performance
-- Security
-- Content Source Control
 

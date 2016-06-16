@@ -201,6 +201,10 @@ li.movie-summary p {
   font-weight: bold;
 }
 
+.small {
+  font-size: 1.8rem;
+}
+
 .mar-top-1 {
   margin-top: 1rem;
 }
